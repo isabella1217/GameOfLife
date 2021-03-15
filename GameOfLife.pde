@@ -8,7 +8,7 @@ private boolean running = true; //used to start and stop program
 
 public void setup () {
   size(400, 400);
-  frameRate(6);
+  frameRate(10);
   // make the manager
   Interactive.make( this );
 
